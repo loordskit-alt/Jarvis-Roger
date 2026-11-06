@@ -1,0 +1,9 @@
+JARVIS Red Neural für iPhone
+
+1. Alle Dateien aus diesem ZIP in ein öffentliches GitHub-Repository hochladen (Dateien im Stammverzeichnis).
+2. Im Repository unter Settings > Pages die Veröffentlichung über Deploy from a branch, main und /(root) einschalten.
+3. Nach der Veröffentlichung die angezeigte HTTPS-Adresse in Safari auf dem iPhone öffnen.
+4. In Safari Teilen > Zum Home-Bildschirm > Hinzufügen wählen.
+5. Für Änderungen die Dateien im selben Repository aktualisieren; nach dem Veröffentlichen in der App neu öffnen.
+
+Wichtig: Diese App zeigt eine animierte Grafik und reagiert optional auf Mikrofon-Geräusche. Sie ist NICHT direkt mit ChatGPT verbunden und führt keine KI-Gespräche. Der ChatGPT-Knopf öffnet ChatGPT separat. Kein API-Schlüssel nötig.
